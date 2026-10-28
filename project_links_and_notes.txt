@@ -1,0 +1,55 @@
+PROJECT LINKS AND NOTES
+Owner: Mesbah Hasin
+(Purpose: give this file to Claude so it quickly understands who I am and what my projects are.)
+
+==================================================
+1. CONTACT
+==================================================
+Gmail: mesbahhasin123@gmail.com
+
+==================================================
+2. PROJECT / PROFILE LINKS
+==================================================
+Personal Facebook:
+https://www.facebook.com/share/1MR1UMtGrV/
+
+Personal Instagram (mesbahhasin23):
+https://www.instagram.com/mesbahhasin23?exln=c3V5djh0Z3B4YWh4
+
+ShotSwift Studio (Instagram: shortswiftstudios_official):
+https://www.instagram.com/shortswiftstudios_official?exln=MW1kbmQwNGJhdTkyZQ==
+
+Solexa (Facebook):
+https://www.facebook.com/share/1EiRyZnZCo/
+
+Tsy Editx (Facebook):
+https://www.facebook.com/share/1FfvFY2poQ/
+
+==================================================
+3. PROJECT NOTES  (to be completed from my Biography)
+==================================================
+ShotSwift Studio
+- What it is: [fill in from Biography]
+- My role: [fill in]
+- Services / focus: [fill in]
+- Target audience: [fill in]
+
+Solexa
+- What it is: [fill in from Biography]
+- My role: [fill in]
+- Services / focus: [fill in]
+- Target audience: [fill in]
+
+Tsy Editx
+- What it is: [fill in from Biography]
+- My role: [fill in]
+- Services / focus: [fill in]
+- Target audience: [fill in]
+
+==================================================
+4. HOW CLAUDE SHOULD USE THIS FILE
+==================================================
+- Treat the links above as my official pages and projects.
+- Use the notes in section 3 as the main background when helping me
+  with captions, bios, content ideas, branding, or replies.
+- If something is missing or unclear, ask me before assuming.
